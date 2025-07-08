@@ -1,4 +1,9 @@
-kaggle
-onnx
-pandas
-sklearn
+kaggle==1.7.4.5
+onnx==1.18.0
+pandas==2.3.0
+scikit-learn==1.7.0
+jupyter==1.1.1
+statsmodels==0.14.4
+plotly==6.2.0
+tqdm==4.67.1
+seaborn==0.13.2
