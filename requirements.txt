@@ -7,3 +7,5 @@ statsmodels==0.14.4
 plotly==6.2.0
 tqdm==4.67.1
 seaborn==0.13.2
+Cython==3.1.2
+prophet==1.1.7

@@ -1,7 +1,8 @@
 .venv
 .idea
 /temp
-submission2.csv
-submission.csv
+temp/submission2.csv
+temp/submission.csv
 saved_models
 saved_models2
+/wandb
