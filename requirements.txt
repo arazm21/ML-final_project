@@ -9,3 +9,7 @@ tqdm==4.67.1
 seaborn==0.13.2
 Cython==3.1.2
 prophet==1.1.7
+category_encoders==2.8.1
+scikit-optimize==0.10.2
+xgboost==3.0.3
+lightgbm==4.6.0
